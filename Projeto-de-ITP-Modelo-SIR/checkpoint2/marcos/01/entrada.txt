@@ -1,0 +1,17 @@
+S,68
+I,2
+R,0
+h,0.1
+N_b,12
+T_b,24
+T_b2,48
+tempoT_b2,24
+S_b,10
+I_b,50
+m_k,6
+n_k,22
+T_k,24
+T_k2,12
+tempoT_k2,24
+periodo,21
+
